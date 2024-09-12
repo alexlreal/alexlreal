@@ -1,5 +1,7 @@
 # Olá! Eu me chamo Alexandre! 👋
 
+![Java Mascot](https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg)
+
 🎓 Sou estudante de **Análise e Desenvolvimento de Software** na PUC-GO, tenho 23 anos de idade e, atualmente, atuo como **Analista de BI** na Secretaria Geral de Governo do Estado de Goiás.
 
 💻 Estou em transição de carreira para me tornar um **Desenvolvedor Back-end Java**, e este portfólio está dedicado a compartilhar meus projetos, aprendizados e experiências nessa nova jornada. Estou focado em aprender e aplicar **Java** e **Spring**, desenvolvendo soluções robustas e escaláveis.
