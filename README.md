@@ -1,6 +1,6 @@
 # Olá! Eu me chamo Alexandre! 👋
 
-![Java Mascot]([https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg](https://www.pngfind.com/pngs/m/668-6684239_file-duke3d-java-duke-hd-png-download.png))
+![Java Mascot](https://www.pngfind.com/pngs/m/668-6684239_file-duke3d-java-duke-hd-png-download.png)
 
 🎓 Sou estudante de **Análise e Desenvolvimento de Software** na PUC-GO, tenho 23 anos de idade e, atualmente, atuo como **Analista de BI** na Secretaria Geral de Governo do Estado de Goiás.
 
